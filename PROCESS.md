@@ -20,6 +20,8 @@
 -   [x] Agregar seeder y factories para pruebas y llenar la base de datos.
 -   [x] Agregar Pest test version 3.7 al proyecto.
 -   [x] Se agrego componente de heading para los mensajes de las tareas (tasks) y su mensaje.
+-   [x] Se llamo lista de tareas y se envio como parametros a la vista para que se pueda renderizar en una tabla.
+-   [x] Se agrego enum de estado de tareas para mejor legibilidad y consistencia del código.
 
 ## TEST
 
